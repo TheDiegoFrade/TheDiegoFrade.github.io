@@ -1,7 +1,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Diego's Pensieve
+title: DIEGO'S PENSIEVE
 
 # Your name to show in the footer
 author: Diego Pérez-Castro Frade
@@ -13,7 +13,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://twitter.com/TheDiegoFrade"
 
 # --- Logo --- #
 
@@ -71,7 +71,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://twitter.com/TheDiegoFrade"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
