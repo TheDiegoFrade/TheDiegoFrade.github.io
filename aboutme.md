@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: page
 title: About me
 subtitle: Real Hasta la muerte Baby
 ---
