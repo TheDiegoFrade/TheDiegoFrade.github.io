@@ -5,5 +5,6 @@ subtitle: Libro
 gh-repo: TheDiegoFrade/TheDiegoFrade.github.io
 gh-badge: [star, fork, follow]
 tags: [lectura]
+thumbnail-img: /assets/img/travesuras.jpg
 comments: true
 ---
