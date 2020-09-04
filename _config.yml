@@ -42,7 +42,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: dfrade
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -57,7 +57,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
@@ -65,9 +65,9 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+ #linkedin: true
   github: true
-  vk: false
+ #vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
