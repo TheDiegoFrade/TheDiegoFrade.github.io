@@ -1,16 +1,8 @@
 ---
 layout: page
-title: About me
-subtitle: Real Hasta la muerte Baby
+title: About
+subtitle: This is me 
 ---
 
-My name is Diego. I have the following qualities:
+I will focus on topics, not people. I don’t expect, or want, people to click on my name and try to find out about a social media deliberately built version of me. I expect them to read what I have to say about some topic, life, ideas, hopefully learn from my experiences and find them interesting. 
 
-- 
-- 
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
