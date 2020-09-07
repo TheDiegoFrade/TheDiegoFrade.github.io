@@ -17,6 +17,6 @@ No vuelve a ver a la "nina mala" hasta Paris, cuando los dos son adultos. Ella s
 
 En ese mismo capitulo que ocurre en Francia, MVL nos cuenta la historia de Paul, la tipica persona bien intensionada que de verdad cree que la izquierda "buena" existe y que la vida le demuestra que algo que esta formado por personas(complejas con vicios como todos) no puede ser perfecto, y menos soluciones radicales que solo funcionan en modelos, en papel. 
 
-*En esos comienzos de los anos sesenta Paris vivia la fiebre de la Revolucion Cubana y pululaba de jovenes venidos de los cinco continentes que, como Paul, sonaban con repetir en sus paises la gesta de Fidel Castro y sus barbudos y se preparaban para ello, en serio o en juego, en conspiraciones de cafe.*
+> *En esos comienzos de los anos sesenta Paris vivia la fiebre de la Revolucion Cubana y pululaba de jovenes venidos de los cinco continentes que, como Paul, sonaban con repetir en sus paises la gesta de Fidel Castro y sus barbudos y se preparaban para ello, en serio o en juego, en conspiraciones de cafe.*
  
 
