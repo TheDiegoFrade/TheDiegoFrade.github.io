@@ -2,7 +2,7 @@
 layout: post
 title: Travesuras de la niña mala
 subtitle: Libro
-gh-repo: TheDiegoFrade/TheDiegoFrade.github.io
+gh-repo: 
 gh-badge: [star, fork, follow]
 tags: [lectura]
 thumbnail-img: /assets/img/travesuras.jpg
